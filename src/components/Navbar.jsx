@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
         <div>
-            <Link to="home" smooth={true} duration={500}><img src={Logo} alt="Logo image" style={{width: '50px'}}/></Link>
+            <Link to="home" smooth={true} duration={500}><img src={Logo} alt="Logo image" style={{width: '50px'}} className='rounded-full' /></Link>
         </div>
         {/* menu */}
         
