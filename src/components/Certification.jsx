@@ -7,7 +7,7 @@ const Certification = () => {
     <div name='certification' className='bg-[#0a192f] md:h-screen text-gray-300'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8 '>
-                <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-600'>Certifications</p>
+                <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-600'>Certification</p>
                 <p className='py-6'>Check out some of my certifications</p>
             </div>
             {/* Container */}
