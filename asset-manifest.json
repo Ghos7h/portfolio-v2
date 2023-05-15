@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.10cca6b8.css",
+    "main.js": "/portfolio-v2/static/js/main.e49bca75.js",
+    "static/media/archServerless.png": "/portfolio-v2/static/media/archServerless.1abffb7f4739863e8e4e.png",
+    "static/media/scalingServerless.png": "/portfolio-v2/static/media/scalingServerless.090cffc6c4643a6469fb.png",
+    "static/media/portfolio.png": "/portfolio-v2/static/media/portfolio.2af27933e28b0c2aed80.png",
+    "static/media/linkedin.png": "/portfolio-v2/static/media/linkedin.f319b649672b966b3db5.png",
+    "static/media/snapchat.png": "/portfolio-v2/static/media/snapchat.3a148f4105bbe1769818.png",
+    "static/media/codeEditor.png": "/portfolio-v2/static/media/codeEditor.ab6092b055ffeb56c8b1.png",
+    "static/media/react.png": "/portfolio-v2/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/portfolio-v2/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/portfolio-v2/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio-v2/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/code_book.png": "/portfolio-v2/static/media/code_book.ca75057d384b6f329b60.png",
+    "static/media/javascript.png": "/portfolio-v2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-v2/index.html",
+    "main.10cca6b8.css.map": "/portfolio-v2/static/css/main.10cca6b8.css.map",
+    "main.e49bca75.js.map": "/portfolio-v2/static/js/main.e49bca75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10cca6b8.css",
+    "static/js/main.e49bca75.js"
+  ]
+}
