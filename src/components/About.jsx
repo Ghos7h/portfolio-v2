@@ -15,7 +15,7 @@ const About = () => {
             <p>Hi, I'm Prasenjit, nice to meet you. Please take a look around</p>
           </div>
           <div>
-          Experienced Software Developer with a demonstrated history of working in both product and service based industries. Skilled in AWS services, Nodejs, Typescript, Reactjs, Expressjs, Angularjs, databases(DynamoDB, MongoDB, SQL) and etc. Strong engineering professional with a B.Tech focused in Electronics and Communications Engineering from West Bengal University of Technology.  
+          Experienced Software Developer with a demonstrated history of working in both product and service based industries. Skilled in AWS services, Nodejs, Typescript, Reactjs, Expressjs, Angularjs, databases (DynamoDB, MongoDB, SQL) and etc. Strong engineering professional with a B.Tech focused in Electronics and Communications Engineering from West Bengal University of Technology.  
           </div>                
         </div> 
       </div>
