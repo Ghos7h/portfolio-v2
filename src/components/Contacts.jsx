@@ -23,7 +23,6 @@ const Contacts = () => {
               <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-600'>Contact Info</p>
           </div>      
           <p><b>Email:</b> pras6enjit@gmail.com</p>
-          <p><b>Phone:</b> 9620554882</p>
       </div> 
     </div>
   )
